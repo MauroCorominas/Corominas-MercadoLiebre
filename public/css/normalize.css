@@ -1,0 +1,6 @@
+/*  para sacar por defecto el padding y margin a todo el html */
+*{
+    padding: 0; 
+    margin: 0;
+}
+ 
