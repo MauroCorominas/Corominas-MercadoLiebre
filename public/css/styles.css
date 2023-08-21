@@ -281,9 +281,9 @@
 /*     .detail {
       display: none;
     } */
-    .articles:hover {
+   /*  .articles:hover {
       box-shadow: 0px 0px 10px rgb(100, 100, 100);
-    }
+    } */
     .articles:hover {
       .detail {
         display: block;
