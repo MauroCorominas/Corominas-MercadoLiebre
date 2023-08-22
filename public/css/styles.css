@@ -124,11 +124,6 @@
     border-radius: 15px;
   }
   
-/*   img {
-    width: 100%;
-    height: auto;
-    border-radius: 15px;
-  } */
 
   .imgArt{
     width: 100%;
@@ -278,12 +273,7 @@
       box-shadow: 0px 0px 0px rgb(100, 100, 100);
       width: 23%;
     }
-/*     .detail {
-      display: none;
-    } */
-   /*  .articles:hover {
-      box-shadow: 0px 0px 10px rgb(100, 100, 100);
-    } */
+
     .articles:hover {
       .detail {
         display: block;
